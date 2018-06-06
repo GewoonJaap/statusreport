@@ -3,8 +3,8 @@
   "name": "Escapos",
   "link": "https://status.escapos.ml",
   "repo": "GewoonJaap/statusreport",
-  "owner": "orels1",
-  "statusRepo": "orels1/status.cogs.red",
+  "owner": "GewoonJaap",
+  "statusRepo": "GewoonJaap/statusreport",
   "services": ["API", "Website", "Parser"],
   "statuses": {
     "operational": "#2ecc71",
