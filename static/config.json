@@ -1,9 +1,9 @@
 {
-  "title": "Cogs.Red Status",
-  "name": "cogs.red",
-  "link": "http://cogs.red",
-  "repo": "orels1/Red-Portal",
-  "owner": "orels1",
+  "title": "Escapos | Status",
+  "name": "Escapos",
+  "link": "https://status.escapos.ml",
+  "repo": "GewoonJaap/statusreport",
+  "owner": "GewoonJaap",
   "statusRepo": "orels1/status.cogs.red",
   "services": ["API", "Website", "Parser"],
   "statuses": {
@@ -16,5 +16,5 @@
     "degraded": "Degraded perfomance",
     "outage": "Major outage"
   },
-  "footer": "Hosted with ❤️ by GitHub. [orels1/statusreport](http://github.com/orels1/statusreport)"
+  "footer": "Hosted with ❤️ by GitHub."
 }
