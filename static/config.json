@@ -1,11 +1,11 @@
 {
   "title": "Escapos | Status",
   "name": "Escapos",
-  "link": "https://www.escapos.ml",
+  "link": "https://escapos.me",
   "repo": "GewoonJaap/statusreport",
-  "owner": "GewoonJaap",
+  "owner": "GewoonJaap and GrasPlukker",
   "statusRepo": "GewoonJaap/statusreport",
-  "services": ["API", "Website", "Parser"],
+  "services": ["API", "Website", "Game"],
   "statuses": {
     "operational": "#2ecc71",
     "degraded": "#f39c12",
