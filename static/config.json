@@ -2,7 +2,7 @@
   "title": "Escapos | Status",
   "name": "Escapos",
   "link": "https://escapos.me",
-  "repo": "GewoonJaap/statusreport",
+  "repo": "",
   "owner": "GewoonJaap and GrasPlukker",
   "statusRepo": "GewoonJaap/statusreport",
   "services": ["API", "Website", "Game"],
